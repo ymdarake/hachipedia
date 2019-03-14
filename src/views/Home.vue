@@ -1,5 +1,7 @@
 <template>
   <v-layout justify-center align-center column class="pa-5">
+    <div>このサービスは開発中です...!</div>
+    <div>This service is under development...!</div>
     <v-flex>
       <img style="width: 120px; height: auto;" alt="logo" src="../assets/space_rocket.png">
     </v-flex>
